@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:3000/";
+export const API_URL = "https://github.com/dulhafi/KASIR-APP-BACKEND/blob/master/db.json";
